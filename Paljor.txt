@@ -4,3 +4,15 @@ fichier de Paljor resynchronise puis descendu et modifie par Michel
 jjjjjj
 
 jskdfkdfl
+
+
+
+
+
+
+
+--- ici modification de Michel alors que Paljor a fait deja un commit
+
+kljdskljjlkgd
+klmgdkgmlkdmlgkmkgl
+mlkfdmlgkkgmlfd
